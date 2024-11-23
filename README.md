@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Manajemen Inventaris
 
 Proyek ini adalah sistem backend untuk mengelola aplikasi manajemen inventaris. Sistem ini dibangun menggunakan Golang dan framework Gin, serta berinteraksi dengan database relasional untuk mengelola produk, inventaris, dan pesanan.
@@ -82,3 +83,6 @@ INSERT INTO Inventaris (id_produk, jumlah, lokasi) VALUES
 INSERT INTO Pesanan (id_produk, jumlah) VALUES 
 (1, 2),
 (2, 3);
+=======
+# inventory-manager
+>>>>>>> origin/main
