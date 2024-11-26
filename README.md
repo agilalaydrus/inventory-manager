@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sistem Manajemen Inventaris
 
 Proyek ini adalah sistem backend untuk mengelola aplikasi manajemen inventaris. Sistem ini dibangun menggunakan Golang dan framework Gin, serta berinteraksi dengan database relasional untuk mengelola produk, inventaris, dan pesanan.
